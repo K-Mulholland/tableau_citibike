@@ -27,3 +27,7 @@ What are the usage trends at the most popular start and end stations?
 <img width="991" alt="Screenshot 2023-03-27 at 1 22 06 PM" src="https://user-images.githubusercontent.com/105945908/228018722-39757099-7288-4136-b968-650b7df17a22.png">
 
 
+
+Check out the full story on my Tableau Public page:
+https://public.tableau.com/app/profile/kristina.mulholland/viz/CitiBikeCasualvsMemberRidersJanuary2022/CitiBikeProfileofMembervsCausalRidersJerseyCityJan2022_1
+
