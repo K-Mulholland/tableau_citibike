@@ -20,5 +20,10 @@ What are the usage trends at the most popular start and end stations?
 
 
 
+<img width="1001" alt="Screenshot 2023-03-27 at 1 21 33 PM" src="https://user-images.githubusercontent.com/105945908/228018665-dfb128fd-3bde-42ed-aa17-7f7865b866dd.png">
+
+
+
+<img width="991" alt="Screenshot 2023-03-27 at 1 22 06 PM" src="https://user-images.githubusercontent.com/105945908/228018722-39757099-7288-4136-b968-650b7df17a22.png">
 
 
